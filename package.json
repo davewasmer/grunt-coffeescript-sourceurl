@@ -1,7 +1,7 @@
 {
   "name": "grunt-coffeescript-sourceurl",
   "description": "Append //@ sourceURL=... to your Coffeescript files that will survive compilation and preserve source mapping.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/davewasmer/grunt-coffeescript-sourceurl",
   "author": {
     "name": "Dave Wasmer",
